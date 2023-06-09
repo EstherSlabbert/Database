@@ -1,7 +1,5 @@
-# Database
+# Database program for Ebook Store
  A program that can be used by a bookstore clerk
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -25,13 +23,10 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains a simple project created on Visual Studio Code using Python that could be used by a bookstore clerk.
-
+This repository contains a simple project created on Visual Studio Code using Python and SQLite3 library that could be used by a bookstore clerk.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -40,6 +35,7 @@ This repository contains a simple project created on Visual Studio Code using Py
 ### Built With
 
 * [Python](python.org/downloads/)
+* [SQLite](https://www.sqlite.org/index.html)
 * [VisualStudioCode](https://code.visualstudio.com/download)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,7 +57,6 @@ To get a local copy up and running follow these simple example steps.
    ```
 3.  Run program(s) as you see fit.
    I used Visual Studio Code which can be found here: https://code.visualstudio.com/download.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
